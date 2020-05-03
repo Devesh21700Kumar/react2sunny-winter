@@ -1,0 +1,19 @@
+i.icon-left{
+    position: absolute;
+    top:10px;
+    left:10px;
+}
+
+.icon-left{
+    border: 30px;
+    top:10px;
+    right:10px;
+}
+
+div.season-display{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
